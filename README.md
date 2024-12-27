@@ -86,7 +86,7 @@ You can create a new project or use our CLI tool to use the starter template.
 ### First Time Setup
 ```bash
 # Clone repository and setup CLI tool (only needed once)
-git clone https://github.com/frontendwizards/frontend-challenges.git
+git clone https://github.com/elfajriharsuda/frontend-challenges.git
 
 cd frontend-challenges/challenge-cli
 
